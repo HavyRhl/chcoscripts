@@ -35,3 +35,4 @@ choco install linqpad -fy
 choco install frhed -fy
 choco install snoop -fy
 choco install keepass -fy
+choco install opencover -fy
