@@ -38,3 +38,4 @@ choco install keepass -fy
 choco install opencover -fy
 choco install ewseditor -fy
 choco install wireshark -fy
+choco install graphviz -fy
