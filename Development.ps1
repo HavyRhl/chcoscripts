@@ -37,3 +37,4 @@ choco install snoop -fy
 choco install keepass -fy
 choco install opencover -fy
 choco install ewseditor -fy
+choco install wireshark -fy
