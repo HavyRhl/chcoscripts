@@ -39,3 +39,7 @@ choco install vscode -fy
 choco install wget -fy
 choco install wireshark -fy
 choco install yed -fy
+choco install ffmpeg -fy
+choco install vidcutter -fy
+choco install openshot -fy
+
