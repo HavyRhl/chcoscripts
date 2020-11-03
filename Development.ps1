@@ -38,6 +38,7 @@ choco install visualstudio2019enterprise -fy
 choco install vscode -fy
 choco install wget -fy
 choco install wireshark -fy
+choco install fiddler -fy
 choco install yed -fy
 choco install ffmpeg -fy
 choco install vidcutter -fy
