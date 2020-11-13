@@ -42,5 +42,5 @@ choco install fiddler -fy
 choco install yed -fy
 choco install ffmpeg -fy
 choco install vidcutter -fy
-choco install openshot -fy
+choco install golang -fy
 
