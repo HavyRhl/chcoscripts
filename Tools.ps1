@@ -15,3 +15,4 @@ choco install skype -fy
 choco install vlc -fy
 choco install win32diskimager -fy
 choco install windirstat -fy
+choco install teamviewer9 -fy
